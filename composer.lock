@@ -4159,20 +4159,21 @@
         },
         {
             "name": "symfony/slack-notifier",
-            "version": "v5.1.9",
+            "version": "v5.1.10",
             "source": {
                 "type": "git",
                 "url": "https://github.com/symfony/slack-notifier.git",
-                "reference": "397190fe5b2479e3f59df157f26a13061aa75685"
+                "reference": "8b427c73bd7e7728eff65b6e3c02fbfc2912e31b"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/symfony/slack-notifier/zipball/397190fe5b2479e3f59df157f26a13061aa75685",
-                "reference": "397190fe5b2479e3f59df157f26a13061aa75685",
+                "url": "https://api.github.com/repos/symfony/slack-notifier/zipball/8b427c73bd7e7728eff65b6e3c02fbfc2912e31b",
+                "reference": "8b427c73bd7e7728eff65b6e3c02fbfc2912e31b",
                 "shasum": ""
             },
             "require": {
                 "php": ">=7.2.5",
+                "symfony/deprecation-contracts": "^2.1",
                 "symfony/http-client": "^4.3|^5.0",
                 "symfony/notifier": "~5.1.0"
             },
@@ -4222,7 +4223,7 @@
                     "type": "tidelift"
                 }
             ],
-            "time": "2020-10-24T12:01:57+00:00"
+            "time": "2020-12-16T07:45:20+00:00"
         },
         {
             "name": "symfony/string",
