@@ -4160,23 +4160,23 @@
         },
         {
             "name": "symfony/slack-notifier",
-            "version": "v5.1.10",
+            "version": "v5.1.11",
             "source": {
                 "type": "git",
                 "url": "https://github.com/symfony/slack-notifier.git",
-                "reference": "8b427c73bd7e7728eff65b6e3c02fbfc2912e31b"
+                "reference": "4d6cc122be79bd5101e11ac085579d11793187c6"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/symfony/slack-notifier/zipball/8b427c73bd7e7728eff65b6e3c02fbfc2912e31b",
-                "reference": "8b427c73bd7e7728eff65b6e3c02fbfc2912e31b",
+                "url": "https://api.github.com/repos/symfony/slack-notifier/zipball/4d6cc122be79bd5101e11ac085579d11793187c6",
+                "reference": "4d6cc122be79bd5101e11ac085579d11793187c6",
                 "shasum": ""
             },
             "require": {
                 "php": ">=7.2.5",
                 "symfony/deprecation-contracts": "^2.1",
                 "symfony/http-client": "^4.3|^5.0",
-                "symfony/notifier": "~5.1.0"
+                "symfony/notifier": "~5.1.11"
             },
             "require-dev": {
                 "symfony/event-dispatcher": "^4.3|^5.0"
@@ -4224,7 +4224,7 @@
                     "type": "tidelift"
                 }
             ],
-            "time": "2020-12-16T07:45:20+00:00"
+            "time": "2021-01-06T09:28:14+00:00"
         },
         {
             "name": "symfony/string",
