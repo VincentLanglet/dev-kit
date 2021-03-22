@@ -1380,16 +1380,16 @@
         },
         {
             "name": "oskarstark/env-var-extension",
-            "version": "1.1.1",
+            "version": "1.1.2",
             "source": {
                 "type": "git",
                 "url": "https://github.com/OskarStark/env-var-extension.git",
-                "reference": "7e1a4f803e934bfe02bdc315a8641968c6be0678"
+                "reference": "99a0aeabe7bf9c9470d0c5aa478bc4afbc3d5fd0"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/OskarStark/env-var-extension/zipball/7e1a4f803e934bfe02bdc315a8641968c6be0678",
-                "reference": "7e1a4f803e934bfe02bdc315a8641968c6be0678",
+                "url": "https://api.github.com/repos/OskarStark/env-var-extension/zipball/99a0aeabe7bf9c9470d0c5aa478bc4afbc3d5fd0",
+                "reference": "99a0aeabe7bf9c9470d0c5aa478bc4afbc3d5fd0",
                 "shasum": ""
             },
             "require": {
@@ -1398,7 +1398,8 @@
             },
             "require-dev": {
                 "ergebnis/test-util": "^1.4",
-                "friendsofphp/php-cs-fixer": "^2.18.2",
+                "friendsofphp/php-cs-fixer": "^2.18.3",
+                "phpstan/phpstan": "^0.12.82",
                 "phpunit/phpunit": "^8.5 || ^9.0"
             },
             "type": "library",
@@ -1425,9 +1426,9 @@
             ],
             "support": {
                 "issues": "https://github.com/OskarStark/env-var-extension/issues",
-                "source": "https://github.com/OskarStark/env-var-extension/tree/1.1.1"
+                "source": "https://github.com/OskarStark/env-var-extension/tree/1.1.2"
             },
-            "time": "2021-01-28T08:40:43+00:00"
+            "time": "2021-03-19T12:34:24+00:00"
         },
         {
             "name": "php-http/cache-plugin",
@@ -4314,16 +4315,16 @@
         },
         {
             "name": "symfony/polyfill-mbstring",
-            "version": "v1.22.0",
+            "version": "v1.22.1",
             "source": {
                 "type": "git",
                 "url": "https://github.com/symfony/polyfill-mbstring.git",
-                "reference": "f377a3dd1fde44d37b9831d68dc8dea3ffd28e13"
+                "reference": "5232de97ee3b75b0360528dae24e73db49566ab1"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/symfony/polyfill-mbstring/zipball/f377a3dd1fde44d37b9831d68dc8dea3ffd28e13",
-                "reference": "f377a3dd1fde44d37b9831d68dc8dea3ffd28e13",
+                "url": "https://api.github.com/repos/symfony/polyfill-mbstring/zipball/5232de97ee3b75b0360528dae24e73db49566ab1",
+                "reference": "5232de97ee3b75b0360528dae24e73db49566ab1",
                 "shasum": ""
             },
             "require": {
@@ -4374,7 +4375,7 @@
                 "shim"
             ],
             "support": {
-                "source": "https://github.com/symfony/polyfill-mbstring/tree/v1.22.0"
+                "source": "https://github.com/symfony/polyfill-mbstring/tree/v1.22.1"
             },
             "funding": [
                 {
@@ -4390,7 +4391,7 @@
                     "type": "tidelift"
                 }
             ],
-            "time": "2021-01-07T16:49:33+00:00"
+            "time": "2021-01-22T09:19:47+00:00"
         },
         {
             "name": "symfony/polyfill-php73",
