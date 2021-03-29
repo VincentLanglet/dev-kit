@@ -885,16 +885,16 @@
         },
         {
             "name": "knplabs/github-api",
-            "version": "v2.19.0",
+            "version": "v2.19.2",
             "source": {
                 "type": "git",
                 "url": "https://github.com/KnpLabs/php-github-api.git",
-                "reference": "271b3ca6f7b315c3dae1fcf2be8bb2912a93587d"
+                "reference": "ad3b8e6084729adff5c804bc7058afc57ba04224"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/KnpLabs/php-github-api/zipball/271b3ca6f7b315c3dae1fcf2be8bb2912a93587d",
-                "reference": "271b3ca6f7b315c3dae1fcf2be8bb2912a93587d",
+                "url": "https://api.github.com/repos/KnpLabs/php-github-api/zipball/ad3b8e6084729adff5c804bc7058afc57ba04224",
+                "reference": "ad3b8e6084729adff5c804bc7058afc57ba04224",
                 "shasum": ""
             },
             "require": {
@@ -919,7 +919,7 @@
             "extra": {
                 "branch-alias": {
                     "dev-2.x": "2.19.x-dev",
-                    "dev-master": "3.0.x-dev"
+                    "dev-master": "3.2.x-dev"
                 }
             },
             "autoload": {
@@ -952,7 +952,7 @@
             ],
             "support": {
                 "issues": "https://github.com/KnpLabs/php-github-api/issues",
-                "source": "https://github.com/KnpLabs/php-github-api/tree/v2.19.0"
+                "source": "https://github.com/KnpLabs/php-github-api/tree/v2.19.2"
             },
             "funding": [
                 {
@@ -960,7 +960,7 @@
                     "type": "github"
                 }
             ],
-            "time": "2020-12-21T18:32:50+00:00"
+            "time": "2021-03-28T13:11:08+00:00"
         },
         {
             "name": "knplabs/packagist-api",
@@ -4080,7 +4080,7 @@
         },
         {
             "name": "symfony/options-resolver",
-            "version": "v5.2.3",
+            "version": "v5.2.4",
             "source": {
                 "type": "git",
                 "url": "https://github.com/symfony/options-resolver.git",
@@ -4129,7 +4129,7 @@
                 "options"
             ],
             "support": {
-                "source": "https://github.com/symfony/options-resolver/tree/v5.2.3"
+                "source": "https://github.com/symfony/options-resolver/tree/v5.2.4"
             },
             "funding": [
                 {
@@ -4394,7 +4394,7 @@
         },
         {
             "name": "symfony/polyfill-php73",
-            "version": "v1.22.0",
+            "version": "v1.22.1",
             "source": {
                 "type": "git",
                 "url": "https://github.com/symfony/polyfill-php73.git",
@@ -4453,7 +4453,7 @@
                 "shim"
             ],
             "support": {
-                "source": "https://github.com/symfony/polyfill-php73/tree/v1.22.0"
+                "source": "https://github.com/symfony/polyfill-php73/tree/v1.22.1"
             },
             "funding": [
                 {
@@ -4473,7 +4473,7 @@
         },
         {
             "name": "symfony/polyfill-php80",
-            "version": "v1.22.0",
+            "version": "v1.22.1",
             "source": {
                 "type": "git",
                 "url": "https://github.com/symfony/polyfill-php80.git",
@@ -4536,7 +4536,7 @@
                 "shim"
             ],
             "support": {
-                "source": "https://github.com/symfony/polyfill-php80/tree/v1.22.0"
+                "source": "https://github.com/symfony/polyfill-php80/tree/v1.22.1"
             },
             "funding": [
                 {
